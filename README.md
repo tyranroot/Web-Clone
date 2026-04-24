@@ -94,3 +94,25 @@ python Web-Clone.py
 
 ✅ System Ready | WebCopier Pro Active
 ```
+</div> 
+## 👨‍💻 Author
+
+* **Name:** Maruf x ZeroTrace 
+* 🐙 GitHub: [@tyranroot](https://github.com/tyranroot/)
+* 💬 Telegram: [@marufxzerotrace](https://t.me/marufxzerotrace)
+* 📘 Facebook: [Maruf x ZeroTrace](https://www.facebook.com/share/1CDxaGN6p3/)
+* Ⓜ  TikTok:[@tyranroot](https://tiktok.com/tyranroot)
+
+---
+
+## ⭐ Support
+
+If you find this tool useful:
+
+* 🌟 Star the repo
+* 🍴 Fork it
+* 🔁 Share with ethical hackers
+
+---
+
+**© 2026 TyranRoot — All rights reserved.**
