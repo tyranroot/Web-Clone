@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌐 WebCopier Pro
+# 🌐 Web-Clone
 
 ### *Professional Website Cloning Tool*
 
@@ -11,7 +11,7 @@
 
 ## 📌 **Overview**
 
-**WebCopier Pro** is a professional-grade website cloning tool that allows you to download entire websites for offline viewing, backup, or security research purposes. It features a modern GUI, multi-threaded downloading, and intelligent link parsing.
+**Web-Clone** is a professional-grade website cloning tool that allows you to download entire websites for offline viewing, backup, or security research purposes. It features a modern GUI, multi-threaded downloading, and intelligent link parsing.
 
 > ⚠️ **IMPORTANT**: This tool is for **EDUCATIONAL PURPOSES** only. Only clone websites you own or have explicit permission to copy.
 
