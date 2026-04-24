@@ -63,7 +63,7 @@ python Web-Clone.py
 ║      ╚███╔███╔╝███████╗██████╔╝   ╚██████╗███████╗╚██████╔╝██║ ╚████║███████╗        ║
 ║       ╚══╝╚══╝ ╚══════╝╚═════╝     ╚═════╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝        ║
 ║                                                                                      ║
-║                         ⚡ W E B C O P I E R   P R O   v 2 . 0 ⚡                    ║
+║                         ⚡ W E B C L O N E  v 1 . 0 ⚡                               ║ 
 ║                                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════════════════════╝
 
@@ -92,7 +92,7 @@ python Web-Clone.py
 [10:32:45] 📄 Total files downloaded: 245
 [10:32:45] 📁 Saved to: cloned_site
 
-✅ System Ready | WebCopier Pro Active
+✅ System Ready | Web-Clone Active
 ```
 </div> 
 ## 👨‍💻 Author
